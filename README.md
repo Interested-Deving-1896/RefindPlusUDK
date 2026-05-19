@@ -1,5 +1,75 @@
+[update-readmes]   Mode: rewrite — migrating to template structure...
 # RefindPlusUDK
-## Overview
-UDK2018 Environment for Building the RefindPlus Boot Manager.
 
-[CLICK HERE](https://github.com/dakanji/RefindPlus/blob/GOPFix/BUILDING.md) for build instructions.
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/RefindPlusUDK)
+
+<!-- AI:start:what-it-does -->
+_Description pending._
+<!-- AI:end:what-it-does -->
+
+## Architecture
+
+<!-- AI:start:architecture -->
+_Architecture documentation pending._
+<!-- AI:end:architecture -->
+
+## Install
+
+<!-- Add installation instructions here. This section is yours — the AI will not modify it. -->
+
+```bash
+git clone https://github.com/Interested-Deving-1896/RefindPlusUDK.git
+cd RefindPlusUDK
+```
+
+## Usage
+
+<!-- Add usage examples here. This section is yours — the AI will not modify it. -->
+
+## Configuration
+
+<!-- Document configuration options here. This section is yours — the AI will not modify it. -->
+
+## CI
+
+<!-- AI:start:ci -->
+_CI documentation pending._
+<!-- AI:end:ci -->
+
+## Mirror chain
+
+<!-- AI:start:mirror-chain -->
+This repo is maintained in [`Interested-Deving-1896/RefindPlusUDK`](https://github.com/Interested-Deving-1896/RefindPlusUDK) and mirrored through:
+
+```
+Interested-Deving-1896/RefindPlusUDK  ──►  OpenOS-Project-OSP/RefindPlusUDK  ──►  OpenOS-Project-Ecosystem-OOC/RefindPlusUDK
+```
+
+Changes flow downstream automatically via the hourly mirror chain in
+[`fork-sync-all`](https://github.com/Interested-Deving-1896/fork-sync-all).
+Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-Deving-1896`.
+<!-- AI:end:mirror-chain -->
+
+## Contributors
+
+<!-- AI:start:contributors -->
+_Contributors pending._
+<!-- AI:end:contributors -->
+
+## Origins
+
+<!-- AI:start:origins -->
+_Original project — no upstream fork._
+<!-- AI:end:origins -->
+
+## Resources
+
+<!-- AI:start:resources -->
+_No additional resource files found._
+<!-- AI:end:resources -->
+
+## License
+
+<!-- AI:start:license -->
+[BSD-2-Clause](https://github.com/Interested-Deving-1896/RefindPlusUDK/blob/rudk/License.txt) © 2026 [Interested-Deving-1896](https://github.com/Interested-Deving-1896)
+<!-- AI:end:license -->
